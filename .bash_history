@@ -95,3 +95,19 @@ alias nano="C:/Store/nano-2.8.7.tar/nano-2.8.7.tar"
 nano
 alias notepad="C:/Windows/notepad.exe"
 notepad
+ls
+git init
+ls
+ls -a
+la -a .git
+ls -a .git
+git add README.md
+git add --all
+git status
+git commit -am 'add README.md'
+README.md quidditch-rules.json snitch-sniffer.py
+README.md
+git add --all
+git commit -am 'add json rules and python program'
+hit commit -am 'finish find function'
+git commit -am 'finish find function'
