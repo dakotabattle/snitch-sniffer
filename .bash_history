@@ -111,3 +111,6 @@ git add --all
 git commit -am 'add json rules and python program'
 hit commit -am 'finish find function'
 git commit -am 'finish find function'
+git commit -am 'add json rules and python program'
+git log snitch-sniffer.py
+ls
