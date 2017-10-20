@@ -114,3 +114,26 @@ git commit -am 'finish find function'
 git commit -am 'add json rules and python program'
 git log snitch-sniffer.py
 ls
+git add README.md
+git add --all
+git status
+git commit -am 'add README.md'
+ls
+README.md  quidditch-rules.json  snitch-sniffer.py
+git add --all
+file
+file create
+git commit -am 'add json rules and python program'
+notepad quidditch-rules.json
+notepad snitch-sniffer.py
+git add --all
+git commit -am 'add json rules and python program'
+git log snitch-sniffer.py
+git commit -am 'restore find function'
+git status
+git checkout -b lidar-version
+git branch
+cd 
+cd C:computer
+os
+operating system
